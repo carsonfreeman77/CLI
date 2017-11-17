@@ -2,3 +2,4 @@ Today is Thursday
 thinking emoji
 another line
 one more
+var notcompatable
